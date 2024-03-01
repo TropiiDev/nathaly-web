@@ -1,0 +1,229 @@
+@import url('https://fonts.googleapis.com/css2?family=Single+Day&display=swap');
+
+.navbar {
+    font-family: 'Single Day', sans-serif;
+    font-size: 20px;
+}
+
+.navbar a {
+    transition: 0.3s;
+}
+
+.nav-link:hover {
+    color: lightpink !important;
+}
+
+.home {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #333;
+    font-family: 'Single Day', sans-serif;
+    color: #fff;
+    text-align: center;
+    letter-spacing: 2px;
+    overflow: hidden;
+    position: relative;
+    flex-direction: column;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: #555;
+}
+
+.home .title {
+    font-size: 50px;
+    font-weight: 700;
+    margin: 0;
+    padding: 0;
+    transition: 0.3s;
+}
+
+.home .title:hover {
+    color: lightpink;
+}
+
+.home .subtitle {
+    font-size: 30px;
+    font-weight: 400;
+    margin: 0;
+    padding: 0;
+    transition: 0.3s;
+}
+
+.home .subtitle:hover {
+    color: lightpink;
+}
+
+.love {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #333;
+    font-family: 'Single Day', sans-serif;
+    color: #fff;
+    text-align: center;
+    letter-spacing: 2px;
+    overflow: hidden;
+    position: relative;
+    flex-direction: column;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: #555;
+}
+
+.love .title {
+    font-size: 50px;
+    font-weight: 700;
+    margin: 0;
+    padding: 0;
+    transition: 0.3s;
+}
+
+.love .title:hover {
+    color: lightpink;
+}
+
+.love .subtext {
+    font-size: 20px;
+    font-weight: 400;
+    margin: 0;
+    padding: 0;
+    transition: 0.3s;
+}
+
+.love .subtext:hover {
+    color: lightpink;
+}
+
+.day {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #333;
+    font-family: 'Single Day', sans-serif;
+    color: #fff;
+    text-align: center;
+    letter-spacing: 2px;
+    overflow: hidden;
+    position: relative;
+    flex-direction: column;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: #555;
+}
+
+.day .title {
+    font-size: 50px;
+    font-weight: 700;
+    margin: 0;
+    padding: 0;
+    transition: 0.3s;
+}
+
+.day .title:hover {
+    color: lightpink;
+}
+
+.day .subtext {
+    font-size: 20px;
+    font-weight: 400;
+    margin: 0;
+    padding: 0;
+    transition: 0.3s;
+}
+
+.day .subtext:hover {
+    color: lightpink;
+}
+
+.future {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #333;
+    font-family: 'Single Day', sans-serif;
+    color: #fff;
+    text-align: center;
+    letter-spacing: 2px;
+    overflow: hidden;
+    position: relative;
+    flex-direction: column;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: #555;
+}
+
+.future .title {
+    font-size: 50px;
+    font-weight: 700;
+    margin: 0;
+    padding: 0;
+    transition: 0.3s;
+}
+
+.future .title:hover {
+    color: lightpink;
+}
+
+.future .subtext {
+    font-size: 20px;
+    font-weight: 400;
+    margin: 0;
+    padding: 0;
+    transition: 0.3s;
+}
+
+.future .subtext:hover {
+    color: lightpink;
+}
+
+.question {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #333;
+    font-family: 'Single Day', sans-serif;
+    color: #fff;
+    text-align: center;
+    letter-spacing: 2px;
+    overflow: hidden;
+    position: relative;
+    flex-direction: column;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: #555;
+}
+
+.question .title {
+    font-size: 50px;
+    font-weight: 700;
+    margin: 0;
+    padding: 0;
+    transition: 0.3s;
+}
+
+.question .title:hover {
+    color: lightpink;
+}
+
+.question .subtext {
+    font-size: 20px;
+    font-weight: 400;
+    margin: 0;
+    padding: 0;
+    transition: 0.3s;
+}
+
+.question .subtext:hover {
+    color: lightpink;
+}
+
+.question .subtext span {
+    font-weight: bolder;
+}
+
